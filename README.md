@@ -13,4 +13,6 @@ My preferred stack is Vue, NestЈS and PostgreSQL, but I've also built applicati
 
 I dabble with DevOps stuff from time to time, so I have some experience in using Docker, Jenkins, AWS, ...
 
-A complete list of my skills can be found on [my LinkedIn profile page](https://www.linkedin.com/in/rajkovicmilos/) ❤️
+A complete list of my skills can be found on [my resume](https://drive.google.com/file/d/1yTOcrKftUifWNG7Z1_Y2DUcIdDPhdJJo/view).
+
+You can also visit [my LinkedIn profile](https://www.linkedin.com/in/rajkovicmilos/)! ❤️
