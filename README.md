@@ -1,8 +1,8 @@
 # Hi, I'm Miles! 👋
 My actual name is Miloš, but years of gaming taught me that Miles was way easier to use and remember for most people. Call me whatever you prefer.
 ## 🚀 About Me
-I'm a Full Stack Engineer, currently working as an Assistant Back End Team Lead at [Blinking](https://blinking.id).
-I also work part-time as a Full Stack Engineer at [ProudSourceIT](https://proudsourceit.com/).
+I'm a Full Stack Engineer, currently working as the Back End Team Lead at [Blinking](https://blinking.id).
+I also work part-time as a developer at [ProudSourceIT](https://proudsourceit.com/).
 ## 🛠 Skills
 
 My primary strength definitely lies on the back end.
