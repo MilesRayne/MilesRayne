@@ -5,7 +5,7 @@ My actual name is Miloš, but years of gaming taught me that Miles was way easie
 I'm a Full Stack Engineer, currently working as the Back End Team Lead at [Blinking](https://blinking.id).
 I also work part-time as a developer at [ProudSourceIT](https://proudsourceit.com/).
 ### Education
-I studied Information Systems and Technologies at the Faculty of Organisational Sciences, in Belgrade, Serbia.
+I studied Information Systems and Technologies at the [Faculty of Organisational Sciences](http://www.fon.bg.ac.rs/), in Belgrade, Serbia.
 
 Currently finishing up my master's thesis there.
 ### Interests
