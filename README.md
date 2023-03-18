@@ -13,7 +13,7 @@ In my free time I enjoy creating scripts, browser extensions and various other t
 
 I love digital art and a long time ago I used to create stuff using drawing tablets. Nowadays I can't seem to find the time, but I still regularly use Photoshop to create smaller scale designs.
 
-Sometimes I also do video-editing, which started off as something I did as a designer for [a student's organisation I was part of](https://fonis.rs/), as well as helping my dad with his YouTube channel. Always wanted to be more efficient with Premiere, but somehow never moved on from Vegas.
+Sometimes I also do video-editing, which started off as something I did as a designer for [a student's organisation I was part of](https://fonis.rs/), as well as helping my dad with [his YouTube channel](https://www.youtube.com/@KameromkrozSrbiju). Always wanted to be more efficient with Premiere, but somehow never moved on from Vegas.
 ## 🛠 Skills
 My preferred technologies are NestЈS, PostgreSQL and Vue, but I've also built applications using Angular, Express, MySQL and others. 
 Love TypeScript. Have worked shortly in Java and C# in the past, but heavily prefer JavaScript.
