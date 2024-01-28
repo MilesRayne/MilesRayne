@@ -21,6 +21,6 @@ I dabble with DevOps stuff from time to time (using Docker, kubernetes, pm2, Jen
 Although I love coding, I'm also very passionate about management and planning, so I'm hoping to climb the management ladder further in the future.
 
 ### Resume and LinkedIn
-A complete list of my skills can be found on [my resume](https://drive.google.com/file/d/1yTOcrKftUifWNG7Z1_Y2DUcIdDPhdJJo/view).
+A complete list of my skills can be found on [my resume](https://drive.google.com/file/d/18Icm-kvKgfUnT2sOAV-JTTnKBA7gaw04/view?usp=sharing).
 
 You can also visit [my LinkedIn profile](https://www.linkedin.com/in/rajkovicmilos/).
