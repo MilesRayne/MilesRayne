@@ -17,7 +17,7 @@ I'm interested in learning Go and I ocassionally dabble with Rust (when making T
 My preferred technologies are NestЈS, PostgreSQL and Vue, but I've also built applications using Angular, Express, MySQL and others. 
 
 
-I dabble with DevOps stuff from time to time (using Docker, kubernetes, pm2, Jenkins, playing wtih AWS, etc.), but I usually do it only to provide assistance to the existing DevOps team in the company I work for.
+I dabble with DevOps stuff from time to time (using Docker, kubernetes, pm2, Jenkins, playing with AWS, etc.), but I usually do it only to provide assistance to the existing DevOps team in the company I work for.
 
 Although I love coding, I'm also very passionate about management and planning, so I'm hoping to climb the management ladder further in the future and move away from programming as my full-time job. Programming is way more fun as a hobby.
 
