@@ -2,7 +2,7 @@
 My actual name is Miloš, but years of gaming taught me that Miles was way easier to use and remember for most people. Call me whatever you prefer.
 ## 🚀 About Me
 ### Work
-I'm a software engineer, currently working as the back-end tech lead at [Blinking](https://blinking.id).
+I'm a software engineer with somewhat over 4 years of experience in the industry, currently working as the back-end tech lead at [Blinking](https://blinking.id).
 I also do work as an on-call developer at [ProudSourceIT](https://proudsourceit.com/).
 ### Education
 Finished my undergraduate and graduate studies in Information Systems and Technologies at the [Faculty of Organisational Sciences](http://www.fon.bg.ac.rs/), in Belgrade, Serbia.
