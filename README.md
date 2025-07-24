@@ -14,9 +14,8 @@ Sometimes I also do video-editing, which started off as something I did as a des
 ## 🛠 Technicals
 Love TypeScript. Have worked shortly in Java and C# in the past, but heavily prefer JavaScript.
 I'm interested in learning Go and I ocassionally dabble with Rust (although only to make Tauri apps).
-My preferred technologies are NestЈS, PostgreSQL and Vue, but I've also built applications using Angular, Express, MySQL and others. 
+My preferred technologies are NestЈS, PostgreSQL and Vue, but I've also built applications using Angular, Express, MySQL and others. A strong believer in NestJS and opinionated frameworks in general.
 
-A strong believer in NestJS and opinionated frameworks in general - I think most IT companies, made up of employees with various knowledge and experience levels, would benefit greatly from well-supported and widely accepted opinionated frameworks, rather than trying to reinvent the wheel for businesses that (in most cases) do not require this kind of innovation.
 
 I dabble with DevOps stuff from time to time (using Docker, kubernetes, pm2, Jenkins, playing with AWS, etc.), but I usually do it only to provide assistance to the existing DevOps team in the company I work for.
 
