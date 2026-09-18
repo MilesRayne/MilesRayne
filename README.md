@@ -26,6 +26,8 @@ I'm currently named the "AI Transformation Leader" in my company as well. I'm no
 
 I'm currently mostly focused on Claude, but I'm always experimenting with other models and alternatives. T3 Chat is also a nice way to do quick tests of new models.
 
+I'm also enjoying the benefits of agent harnesses and have been dabbling with T3 Code and BB lately.
+
 ### Resume and LinkedIn
 A complete list of my skills can be found on [my resume](https://drive.google.com/file/d/18Icm-kvKgfUnT2sOAV-JTTnKBA7gaw04/view?usp=sharing).
 
